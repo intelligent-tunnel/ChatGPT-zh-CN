@@ -22,8 +22,7 @@ ChatGPT mirror share 的理念是降低ChatGPT的官网使用门槛，帮助更�
 [download-url]: https://www.chatgpt.sh
 [Web-image]: https://img.shields.io/badge/Web-PWA-orange?logo=microsoftedge
 [Windows-image]: https://img.shields.io/badge/-Windows-blue?logo=windows
-[MacOS-image]: https://img.shields.io/badge/-MacOS-black?logo=apple
-[Linux-image]: https://img.shields.io/badge/-Linux-333?logo=ubuntu
+[MacOS-image]: https://img.shields.io/badge/-MacOS-black?logo=apple:
 
 </div>
 
@@ -56,9 +55,23 @@ ChatGPT mirror share 的理念是降低ChatGPT的官网使用门槛，帮助更�
 
 ### GPTs 商店
 
+![gpts-pc](./docs/images/gpts-pc.svg)
+
+### 联网搜索
+
+![](./docs/images/search-pc.svg)
+
+### DALL-E 绘画
+
+🔥Tips：DALL-E绘图已支持局部重绘，点击图片后进入局部重绘页面，套索选中图像区域进行二次重绘。
+
+![](./docs/images/content-pc.svg)
 
 
 
+### 数据分析
+
+![](./docs/images/analysis-pc.svg)
 
 ## 开发计划
 
