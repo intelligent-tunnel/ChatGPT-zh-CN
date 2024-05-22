@@ -25,7 +25,6 @@ ChatGPT mirror share 的理念是降低ChatGPT的官网使用门槛，帮助更�
 [MacOS-image]: https://img.shields.io/badge/-MacOS-black?logo=apple
 [Linux-image]: https://img.shields.io/badge/-Linux-333?logo=ubuntu
 
-
 </div>
 
 
@@ -52,6 +51,14 @@ ChatGPT mirror share 的理念是降低ChatGPT的官网使用门槛，帮助更�
 
 - 支持**免注册、免登录**状态下体验网站功能，如体验最新的 GPT4o 模型，GPT3.5 对话等
 - 完整的 Markdown 支持：LaTex 公式、Mermaid 流程图、代码高亮等等
+
+## 功能展示
+
+### GPTs 商店
+
+[GPTs 商店](../docs/images/gpts-pc.svg)
+
+
 
 ## 开发计划
 
