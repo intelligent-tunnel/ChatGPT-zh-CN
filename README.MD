@@ -1,7 +1,7 @@
 <div align="center">
 
 ![](./docs/images/home_page.jpg)
-<h1 align="center">ChatGPT (ChatGPT 中文站)</h1>
+<h1 align="center">ChatGPT (ChatGPT 中文站/www.chatgpt.sh)</h1>
 
 
 ChatGPT 中文站的理念是降低ChatGPT的官网使用门槛，帮助更多的用户用上ChatGPT，让AI工具的使用变的更简单、更轻松、更实惠。
