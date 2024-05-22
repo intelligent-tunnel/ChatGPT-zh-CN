@@ -2,7 +2,7 @@
   <a href="https://www.chatgpt.sh" target="_blank">
     <img src="./docs/images/head-cover.jpg" alt="icon"/>
   </a>
-</div>
+
 <h1 align="center">ChatGPT (ChatGPT share mirror)</h1>
 
 
