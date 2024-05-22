@@ -75,7 +75,7 @@ ChatGPT mirror share 的理念是降低ChatGPT的官网使用门槛，帮助更�
 - 🚀 v1.0 已经发布，现在你可以进入 ChatGPT 中文站快速使用 GPT 进行对话了！ 了解更多： [ChatGPT 中文站常见疑问解答](./docs/QA.md)。
 - 🚀 v1.1 现在可以支持多种邀请方式了，积分中心可以查看邀请人信息了。
 
-## Quick Start
+## 快速开始
 
 1. 登录/注册 [ChatGPT中文站](https://www.chatgpt.sh)
 2. 点击 【免费/开始】使用ChatGPT
