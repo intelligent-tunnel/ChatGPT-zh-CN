@@ -7,8 +7,8 @@
 ChatGPT 中文站的理念是降低ChatGPT的官网使用门槛，帮助更多的用户用上ChatGPT，让AI工具的使用变的更简单、更轻松、更实惠。
 
 [![Web][Web-image]][web-url]
-[![Windows][Windows-image]][download-url]
-[![MacOS][MacOS-image]][download-url]
+[![Windows][Windows-image]][web-url]
+[![MacOS][MacOS-image]][web-url]
 
 
 [网页版](https://www.chatgpt.sh) / [客户端-开发中ing](https://www.chatgpt.sh)
