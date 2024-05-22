@@ -56,7 +56,7 @@ ChatGPT mirror share 的理念是降低ChatGPT的官网使用门槛，帮助更�
 
 ### GPTs 商店
 
-[GPTs 商店](../docs/images/gpts-pc.svg)
+
 
 
 
