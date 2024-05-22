@@ -3,12 +3,9 @@
     <img src="./docs/images/head-cover.jpg" alt="icon"/>
   </a>
 <h1 align="center">ChatGPT (ChatGPT Share Mirror)</h1>
+![](./docs/images/home_page.jpg)
 
-
-
-The philosophy of ChatGPT Mirror Share is to lower the barrier to using ChatGPT's official website, helping more users access ChatGPT and making the use of AI tools simpler, easier, and more affordable.
-
-ChatGPT mirror share 的理念是降低ChatGPT的官网使用门槛，帮助更多的用户用上ChatGPT，让AI工具的使用变的更简单、更轻松、更实惠。
+ChatGPT Mirror Share 的理念是降低ChatGPT的官网使用门槛，帮助更多的用户用上ChatGPT，让AI工具的使用变的更简单、更轻松、更实惠。
 
 [![Web][Web-image]][web-url]
 [![Windows][Windows-image]][download-url]
@@ -26,28 +23,31 @@ ChatGPT mirror share 的理念是降低ChatGPT的官网使用门槛，帮助更�
 
 </div>
 
+> [!NOTE]
+> 本项目已接入阿里云文字风控系统，网站严格禁止用户涉政，请遵守国家的相关管控，违者将永久拉黑IP段，永久禁止使用。
+>
+> 根据[《生成式人工智能服务管理暂行办法》](http://www.cac.gov.cn/2023-07/13/c_1690898327029107.htm)的要求，为了响应国家互联网信息办公室近期发布的《生成式人工智能服务管理办法》的要求，您在使用本公益站点时，不得生成以下内容。
+>
+> 1. 违反社会主义核心价值观：不得生成或传播颠覆国家政权、破坏社会主义制度等内容。
+> 2. 岐视性内容：禁止生成任何种族、民族、信仰等方面的歧视内容。
+> 3. 侵犯知识产权：严禁侵犯他人知识产权和商业秘密。
+> 4. 虚假信息：禁止生成虚假信息。
+> 5. 损害他人权益：不得生成侵犯他人身心健康肖像权名誉权和个人隐私的内容。
 
 ## 主要功能
 
 - 在 1 分钟内快速使用上 ChatGPT **免费且无需注册**
-
-- 使用体验与官网完全一致，我们的用户可以在第一时间体验到官网发布的新功能
+- 官网直达，非套壳产品，使用体验与官网完全一致，用户可以在第一时间体验到官网发布的新功能
 - 可在任何地方**无障碍**快速访问，不受地域限制
-
 - 无需为如何订阅ChatGPT PLUS/TEAM 会员而烦恼，我们背后内置了非常多 PLUS/TEAM 账号
-
 - 支持访问和使用GPTs商店，包括搜索GPTs，使用DALL·E-E绘画模型等
-
 - 支持最新GPT-4o模型，支持多模态，如上传PDF、图片分析、AI绘画、联网搜索对话等
-
 - 支持对话隔离，隔离状态下其他人将无法看到你的对话内容，保护隐私
 - 数据漫游，数据保存在用户浏览器本地和我们的服务器云端
 - 自动压缩上下文聊天记录，在节省 Token 的同时支持超长对话
 - 极快的加载速度（~100kb），支持流式响应
 - 精心设计的 UI，响应式设计和完善的会员与售后系统
-
 - 无需担心OpenAI的封号风险
-
 - 支持**免注册、免登录**状态下体验网站功能，如体验最新的 GPT4o 模型，GPT3.5 对话等
 - 完整的 Markdown 支持：LaTex 公式、Mermaid 流程图、代码高亮等等
 
