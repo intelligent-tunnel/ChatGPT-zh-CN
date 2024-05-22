@@ -10,7 +10,6 @@ ChatGPT 中文站的理念是降低ChatGPT的官网使用门槛，帮助更多�
 [![Windows][Windows-image]][web-url]
 [![MacOS][MacOS-image]][web-url]
 
-
 [网页版](https://www.chatgpt.sh) / [客户端-开发中ing](https://www.chatgpt.sh)
 
 [web-url]: https://www.chatgpt.sh
@@ -30,6 +29,14 @@ ChatGPT 中文站的理念是降低ChatGPT的官网使用门槛，帮助更多�
 > 3. 侵犯知识产权：严禁侵犯他人知识产权和商业秘密。
 > 4. 虚假信息：禁止生成虚假信息。
 > 5. 损害他人权益：不得生成侵犯他人身心健康肖像权名誉权和个人隐私的内容。
+
+## 快速开始
+
+<a href ="https://www.chatgpt.sh"><img src="./docs/images/head-cover.jpg"></a>
+
+1. 登录/注册 [ChatGPT中文站](https://www.chatgpt.sh)
+2. 点击 【免费/开始】使用ChatGPT
+3. Enjoy :)
 
 ## 主要功能
 
@@ -84,14 +91,6 @@ ChatGPT 中文站的理念是降低ChatGPT的官网使用门槛，帮助更多�
 
 - 🚀 v1.0 已经发布，现在你可以进入 ChatGPT 中文站快速使用 GPT 进行对话了！ 了解更多： [ChatGPT 中文站常见疑问解答](./docs/QA.md)。
 - 🚀 v1.1 现在可以支持多种邀请方式了，积分中心可以查看邀请人信息了。
-
-## 快速开始
-
-<a href ="https://www.chatgpt.sh"><img src="./docs/images/head-cover.jpg"></a>
-
-1. 登录/注册 [ChatGPT中文站](https://www.chatgpt.sh)
-2. 点击 【免费/开始】使用ChatGPT
-3. Enjoy :)
 
 ## FAQ
 
