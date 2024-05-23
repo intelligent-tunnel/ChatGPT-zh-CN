@@ -10,7 +10,7 @@ ChatGPT 中文站的理念是降低ChatGPT的官网使用门槛，帮助更多�
 [![Windows][Windows-image]][web-url]
 [![MacOS][MacOS-image]][web-url]
 
-[网页版](https://www.chatgpt.sh) / [客户端-开发中ing](https://www.chatgpt.sh)
+[网页版](https://www.chatgpt.sh) / [手机端](https://www.chatgpt.sh)
 
 [web-url]: https://www.chatgpt.sh
 [Web-image]: https://img.shields.io/badge/Web-PWA-orange?logo=microsoftedge
